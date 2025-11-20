@@ -1,0 +1,7 @@
+{
+  "name": "Finanças Voz",
+  "description": "Gestor financeiro pessoal controlado por voz e texto com inteligência artificial.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
